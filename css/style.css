@@ -34,6 +34,7 @@ body {
     font-size: 20px;
 }
 
+/*Unordered list for header*/ 
 .header div ul {
     list-style-type: none;
 }
@@ -73,11 +74,13 @@ p {
     margin-left: 25px;
 }
 
+/*Info*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
 
 .benefits {
     margin-right: 20px;
@@ -165,8 +168,7 @@ p {
     color: #ffffff;
 }
 
-/*Image sizes*/ 
-
+/*Image sizes for div sections*/ 
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -179,6 +181,7 @@ p {
     max-height: 200px;
 }
 
+/*Headers on Div sections*/ 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
